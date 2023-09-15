@@ -15,7 +15,8 @@ The stuff I'm going to say. Note the extra spaces at the end of this line to for
 * Investigate heat map options
     * Python over R?
 * Build working demo
-* Understand how source data may (or may not) be shared depending on licensing      
+* Understand how source data may (or may not) be shared depending on licensing
+* Publish site [Instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/unpublishing-a-github-pages-site)      
 `tag1` `tag2`
 
 ### SOON
