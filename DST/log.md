@@ -11,9 +11,10 @@ The stuff I'm going to say. Note the extra spaces at the end of this line to for
 {:/comment}
 
 ### NEXT
-* Look at other data source (free) option
-* Investigate heat map options
-    * Python over R?
+Read    
+    * [Chloropleth Maps in Plotly](https://plotly.com/python/choropleth-maps/)
+    * [Getting started with Plotly in Python](https://plotly.com/python/getting-started/)
+
 * Build working demo
 * Understand how source data may (or may not) be shared depending on licensing
 * Publish site [Instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/unpublishing-a-github-pages-site)      
@@ -26,6 +27,14 @@ The stuff I'm going to say. Note the extra spaces at the end of this line to for
 * Another one that does [counties with data from Tidyverse](https://www.geeksforgeeks.org/how-to-create-state-and-county-maps-easily-in-r/)
 * One more: [Choropleth map with R](https://r-graph-gallery.com/choropleth-map-in-r.html)    
 `tag1` `tag2`
+
+### 9.24.23
+* No progress on Sunshine Protection Act per [sleepfoundation.org](https://www.sleepfoundation.org/sleep-news/latest-updates-daylight-saving-time-legislation-change)
+* [IANA.org](https://data.iana.org/time-zones/tz-link.html#web) may have the data I need for free
+* Found a similar global project on [blog.poormansmat.net](https://blog.poormansmath.net/the-time-it-takes-to-change-the-time/)
+* [erichurst@github](https://gist.github.com/erichurst/7882666) has created files of lat/long/zip code before from [US Census Gazeteer Files](https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html). Contains [county](https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html) data from US Census!!!
+* [plotly](https://plotly.com/python/choropleth-maps/) looks promising for python base visualization
+
 
 ### 9.11.23
 VLOOKUP created for Named Range to convert T/Z & DST? to concatenated string and numeric representation
