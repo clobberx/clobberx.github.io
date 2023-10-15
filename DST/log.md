@@ -28,6 +28,22 @@ Read
 * One more: [Choropleth map with R](https://r-graph-gallery.com/choropleth-map-in-r.html)    
 `tag1` `tag2`
 
+### 10.15.23
+* Sample data mapped in Tableau. Email sent to Senator Johnson.
+![Alt text](images/image-1.png)
+
+### 10.8.23
+* Started 14 day Tableau trial, downloaded desktop app
+* [How to](https://kb.tableau.com/articles/howto/map-from-zip-codes)
+* Sample data from Utah: Minimum sunset 20:48:55, Maximum 21:08:12, Roughly 19 minutes across state
+* Formatting in cells from NOAA: H:MM:SS;@
+![Alt text](images/image.png)
+
+### 9.25.23
+* Still need a way to capture time zone from either zip code or lat/lon
+* Cloned repo: git@github.com:eggert/tz.git - may not be entirely helpful
+* Python app that takes lat/lon input: https://github.com/jannikmi/timezonefinder/blob/master/docs/0_getting_started.rst
+
 ### 9.24.23
 * No progress on Sunshine Protection Act per [sleepfoundation.org](https://www.sleepfoundation.org/sleep-news/latest-updates-daylight-saving-time-legislation-change)
 * [IANA.org](https://data.iana.org/time-zones/tz-link.html#web) may have the data I need for free
