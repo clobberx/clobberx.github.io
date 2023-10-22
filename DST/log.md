@@ -28,6 +28,17 @@ Read
 * One more: [Choropleth map with R](https://r-graph-gallery.com/choropleth-map-in-r.html)    
 `tag1` `tag2`
 
+### 10.22.23
+* Senator Johnson would like map of state
+* Revisit free options, need the following data points:
+    * City, State, Zip, Latitude, Longitude, Time Zone
+    * Free files from gazetteer do not contain time zone information
+* Ordered ZIPList5 Geocode data from zipinfo.com $39.95
+    * Transaction issues. Attempt to call 866-256-2042
+    * Left voicemail, sent email
+    ![Alt text](images/image-2.png)
+    * Requested academic license for Tableau via webform & Purdue Email
+
 ### 10.15.23
 * Sample data mapped in Tableau. Email sent to Senator Johnson.
 ![Alt text](images/image-1.png)
