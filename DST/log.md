@@ -2,7 +2,7 @@
 title: Log
 layout: default
 nav_order: 2024
-parent: DST Sunset Heat Map
+parent: Indiana Daylight Savings Time Sunset Heat Map
 ---
 ### 10.25.23
 * Published to https://clobberx.github.io
