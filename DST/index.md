@@ -28,5 +28,6 @@ The side-by-side images below compare the current observance of daylight savings
 
 
 ----
+This project was created with data from [zipinfo.com](www.zipinfo.com), calculations from [NOAA](https://www.gml.noaa.gov/grad/solcalc/calcdetails.html), and visualized with [Tableau](https://www.tableau.com).
 
 For play-by-play of this project, see the [log](/DST/log.html) file.
