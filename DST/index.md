@@ -1,37 +1,31 @@
 ---
-title: DST Sunset Heat Map
+title: Indiana Daylight Savings Time Sunset Heat Map
 layout: default
 nav_order: 2
 has_children: true
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+According to [sleepfoundation.org](https://www.sleepfoundation.org/sleep-news/removing-daylight-saving-time-changes-sleep), 63% of Americans support a national, permanent, year-round time. Daylight Savings Time (DST) delays sunset by an hour which influences circadian rhythms and may lead to insomnia or decreased sleep quality especially for persons who go to bed near the time of sunset.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+In Indiana under Daylight Savings Time, sunset is after 9 pm during the summer months with daylight persisting past 10 pm. For a child who needs 9-10 hours of sleep this can have a major impact. For example, if the child needs to be awake at 8 am and that child needs 10 hours of sleep they should be in bed and asleep at 10 pm. In many areas of the US under daylight savings time, the sky is still bright at that time of day and our natural [circadian rhythm](https://www.sleepfoundation.org/circadian-rhythm) is interrupted.
 
-More specifically, the created site:
+The goal of this project is to provide a visual representation of the effect of DST on sunset times in Indiana in hopes that the state legislature will end the observance of daylight savings time in our state. Historically, Indiana did not observe daylight savings time until 2005 [under governor Mitch Daniels](https://www.wave3.com/story/3341011/daniels-signs-daylight-saving-time-into-law/). 
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+The images below represent a heat map of the continental US on summer solstice in 2023 (June 21st), the day of the year when sun is highest in the horizon in the northern hemisphere and the sunset is the latest.   
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+The time of sunset across the continental US on summer solstice varies by 157.6 minutes (*over 2 1/2 hours, normalized for local time*). The temperature scale for the heat map translates in to roughly 15 minutes for each progressive change in color.   
+![Figure 1: Scale of sunset times](images/image-3.png)
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Note how the heat map below changes from green to orange at Indiana's western border for the counties in eastern time. The proximity of the state at the western edge of the time zone moves Hoosiers to some of the latest sunset times in the country. 
+![Figure 2: CONUS under DST on summer solstice 2023](<images/Screenshot 2023-10-26 at 10.36.46 AM.png>)
 
-To get started with creating a site, simply:
+The next image represents a heat map of the continental US for the same date if Indiana were to stop observing daylight savings time in the eastern time zone counties. The image illustrates that the state would assume a more natural relationship between the time on the clock and the sun's position in the sky.
+![CONUS if Indiana stopped observing DST on summer solstice 2023](images/image-4.png)
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+The side-by-side images below compare the current observance of daylight savings time (left) to standard time (right) for summer solstice 2023. It is this author's opinion that sunset at quarter past eight is better for sleep, stargazing, fireflies, and campfires!
+![Indiana EDT v EST](images/image-5.png)
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+For play-by-play of this project, see the [log](/DST/log.html) file.

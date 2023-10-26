@@ -4,40 +4,18 @@ layout: default
 nav_order: 2024
 parent: DST Sunset Heat Map
 ---
-{::comment}
-### Date in mm.dd.yy format
-The stuff I'm going to say. Note the extra spaces at the end of this line to force a line break in GFM   
-`tag1` `tag2`
-{:/comment}
+### 10.25.23
+* Published to https://clobberx.github.io
 
-### NEXT
-Read    
-    * [Chloropleth Maps in Plotly](https://plotly.com/python/choropleth-maps/)
-    * [Getting started with Plotly in Python](https://plotly.com/python/getting-started/)
-
-* Build working demo
-* Understand how source data may (or may not) be shared depending on licensing
-* Publish site [Instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/unpublishing-a-github-pages-site)      
-`tag1` `tag2`
-
-### SOON
-* Publish and check URLs compared to page names. May need to update
-* Review visualizations in R from Emma Foley @ IMO [Data Visualization A Practical Introduction by Kieran Healy](https://socviz.co/). Should be able to print to PDF
-* Resource for [Making US maps in R](https://datavizpyr.com/how-to-make-us-state-and-county-level-maps-in-r/)
-* Another one that does [counties with data from Tidyverse](https://www.geeksforgeeks.org/how-to-create-state-and-county-maps-easily-in-r/)
-* One more: [Choropleth map with R](https://r-graph-gallery.com/choropleth-map-in-r.html)    
-`tag1` `tag2`
+### 10.25.23
+* Full CONUS maps drafted and sent to state senator
 
 ### 10.22.23
-* Senator Johnson would like map of state
 * Revisit free options, need the following data points:
-    * City, State, Zip, Latitude, Longitude, Time Zone
-    * Free files from gazetteer do not contain time zone information
-* Ordered ZIPList5 Geocode data from zipinfo.com $39.95
-    * Transaction issues. Attempt to call 866-256-2042
-    * Left voicemail, sent email
-    ![Alt text](images/image-2.png)
-    * Requested academic license for Tableau via webform & Purdue Email
+* City, State, Zip, Latitude, Longitude, Time Zone
+* Free files from gazetteer do not contain time zone information
+* Ordered ZIPList5 Geocode data from zipinfo.com 
+* Tableau license obtained
 
 ### 10.15.23
 * Sample data mapped in Tableau. Email sent to Senator Johnson.
